@@ -67,4 +67,4 @@ const personalMovieDB = {
 
 personalMovieDB.toggleVisibleMyDB();
 personalMovieDB.shoeMyDB(personalMovieDB.privat);
-personalMovieDB.writeYourGenres(tretytrurtry);
+personalMovieDB.writeYourGenres();
